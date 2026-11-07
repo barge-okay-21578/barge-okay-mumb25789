@@ -30,4 +30,4 @@ jobs:
           pip install DataRecorder DownloadKit DrissionPage requests
 
       - name: 🚀 Lancer le script d'upload
-        run: python upload2.py
+        run: python upload3.py
